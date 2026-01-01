@@ -60,7 +60,7 @@ export const PROJECTS: Project[] = [
     tags: ['UI/UX', 'Figma', 'React.js'],
     image: './assets/HYA_solutions.png',
     color: 'accent-blue',
-    url: 'https://695642e858638b23f89e2088--funny-chimera-392bcb.netlify.app/'
+    url: 'https://funny-chimera-392bcb.netlify.app/'
   },
   // {
   //   id: 7,
