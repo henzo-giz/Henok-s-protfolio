@@ -1,2 +1,3 @@
-My portfolio
+Henok.Dev Portfolio
 
+A high-end, modern creative developer portfolio featuring smooth transitions, dark mode aesthetics, and deep React integration
