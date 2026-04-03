@@ -62,16 +62,16 @@ export const PROJECTS: Project[] = [
     color: 'accent-blue',
     url: 'https://funny-chimera-392bcb.netlify.app/'
   },
-  // {
-  //   id: 7,
-  //   title: 'Zenith CRM',
-  //   category: 'SaaS',
-  //   description: 'Sales pipeline management tool optimized for fast-growing remote teams.',
-  //   tags: ['TypeScript', 'GraphQL'],
-  //   image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop',
-  //   color: 'primary',
-  //   url: 'https://zenith-crm.example'
-  // },
+  {
+    id: 7,
+    title: 'Portfolio 2 HTML, CSS',
+    category: 'Web',
+    description: 'A smooth and beautiful personal website with HTML and CSS',
+    tags: ['HTML', 'CSS', 'JS'],
+    image: '/assets/Portfolio-2.png',
+    color: 'primary',
+    url: 'https://henokgizachew.netlify.app/'
+  },
   // {
   //   id: 8,
   //   title: 'Velo Social',
